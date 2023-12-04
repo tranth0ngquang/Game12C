@@ -80,8 +80,8 @@ function App() {
     <div className="App">
       {/* <EXCPhoneRedux/> */}
       {/* <ExerciseCartPhone/> */}
-      {/* <BaiTapTaiXiu/> */}
-      <BaiTapOanTuXi/>
+      <BaiTapTaiXiu/>
+      {/* <BaiTapOanTuXi/> */}
     </div>
   );
 }

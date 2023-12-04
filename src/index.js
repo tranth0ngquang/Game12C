@@ -5,9 +5,9 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import { Provider } from "react-redux";
 // import store from "./BaiTapPhoneRedux/StoreRedux";
-// import store from "./BaiTapTaiXiuRedux/Redux/StoreRedux";
+import store from "./BaiTapTaiXiuRedux/Redux/StoreRedux";
 
-import store from "./BaiTapOanTuXi/Redux/StoreRedux";
+// import store from "./BaiTapOanTuXi/Redux/StoreRedux";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
