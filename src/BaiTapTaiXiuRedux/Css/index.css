@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "FontGame";
+    src: url(./Pony.ttf);
+}
+
+html,
+body {
+    font-family: FontGame;
+}
+
+.backgroundXucXac {
+    background-image: url(../../../public/img/gameXucXac/bgGame.png);
+    min-width: 100%;
+    min-height: 783px;
+    font-family: FontGame;
+}
+
+.button__adjust {
+    background-color: blue;
+    color: white;
+    font-size: 100px;
+    padding: 50px;
+    border: 20px solid;
+}
+
+button.active {
+    border-color: red;
+}
